@@ -11,7 +11,7 @@ int main()
     {
         if (i == 39)
         {
-            std::cout << "What number are we again?" << std::endl;
+            std::cout << "What hahah are we though?" << std::endl;
 
             std::cout << i;
 
