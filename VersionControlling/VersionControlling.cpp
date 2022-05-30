@@ -9,6 +9,8 @@ int main()
 
     for (int i = 0; i < 42; i++)
     {
+        std::cout << "lalala";
+
         if (i == 39)
         {
             std::cout << "What number are we again?" << std::endl;
