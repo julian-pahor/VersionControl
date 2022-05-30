@@ -13,8 +13,8 @@ int main()
 
         if (i == 39)
         {
-            std::cout << "What Lalala are we again?" << std::endl;
             std::cout << "What hahah are we though?" << std::endl;
+            std::cout << "What Lalala are we again?" << std::endl;
 
             std::cout << i;
 
